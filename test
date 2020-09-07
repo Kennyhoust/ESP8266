@@ -1,0 +1,6 @@
+--proto_path=${workspace_loc:/configserver/src/main/resources} 
+--java_out=${workspace_loc:/configserver/src/main/java}
+${workspace_loc:/configserver/src/main/resources/PostPriceCheck.proto}
+
+
+${workspace_loc:/configserver/src/main/resources/protoc.exe}
